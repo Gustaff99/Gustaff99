@@ -43,9 +43,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/jrmydix">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustaff99&layout=compact&theme=dark" alt="Top Langs">
-</a>
 </p>
 
 <p align="center">
