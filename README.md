@@ -46,8 +46,4 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustaff99&layout=compact&theme=dark" alt="Top Langs">
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Gustaff99&count_private=true&show_icons=true&theme=dark&hide=issues" alt="GitHub Stats">
-</p>
-
 </div>
