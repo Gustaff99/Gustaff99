@@ -3,11 +3,11 @@
 <img src="https://github.com/Gustaff99/Gustaff99/assets/62730827/fa548d0f-2579-4303-8f09-1d71b014cf09" alt="Neural Network" width="120">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=00f0ff&center=true&vCenter=true&width=550&lines=Hi%2C+I%27m+Gus+%F0%9F%91%8B%3BYoung+software+developer+%F0%9F%A7%91%8B%EF%B8%8F%3BDeep+learning+enthusiast+%F0%9F%A7%A0%3BCS+student+%2F%2F+National+University+of+Spain+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=00f0ff&center=true&vCenter=true&width=800&lines=Hi%2C+I%27m+Gus+%F0%9F%91%8B%3BSoftware+developer+%F0%9F%A7%91%8B%EF%B8%8F%3BDeep+learning+enthusiast+%F0%9F%A7%A0%3BCS+student+%2F%2F+National+University+of+Spain+%F0%9F%8E%93" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-🔍 In this repo, you will find a bunch of personal projects. As a young software developer and a deep learning enthusiast, I'm currently studying at the National University of Spain. 🎓
+🔍 In this repo, you will find a bunch of personal projects. As a software developer and deep learning enthusiast, I'm currently studying at the National University of Spain. 🎓
 </p>
 
 <img src="https://img.shields.io/badge/CURRENTLY-DEEP_LEARNING_&_WEB_DEV-39ff14?style=flat-square" alt="status">
@@ -112,12 +112,15 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gustaff99&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00f0ff&icon_color=ff003c&text_color=e6e6e6&ring_color=00f0ff" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Gustaff99&hide_border=true&background=0D1117&ring=00f0ff&contrib=39ff14&fire=ff003c&currStreakLabel=00f0ff&sideLabels=8b949e&date=8b949e" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gustaff99&show_icons=true&hide_border=true&theme=tokyo_night" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustaff99&layout=compact&hide_border=true&bg_color=0D1117&title_color=00f0ff&color=39ff14" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=Gustaff99&hide_border=true&theme=tokyo_night" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustaff99&layout=compact&hide_border=true&theme=tokyo_night" alt="Top Languages" />
 </p>
 
 <p align="center">
