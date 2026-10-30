@@ -107,24 +107,12 @@
 
 <div align="center">
 
-## 📊 Stats
+## 🔥 Streak
 
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gustaff99&show_icons=true&hide_border=true&theme=tokyo_night" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Gustaff99&hide_border=true&theme=tokyo_night" alt="Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustaff99&layout=compact&hide_border=true&theme=tokyo_night" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gustaff99&theme=matrix&no-frame=true&row=1&column=8" alt="Trophies" />
 </p>
 
 ---
