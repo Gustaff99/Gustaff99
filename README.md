@@ -1,68 +1,24 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════
-     NEURAL NODE // GUS — CYBERPUNK PROFILE
-     ═══════════════════════════════════════════ -->
-
-<img src="https://github.com/Gustaff99/Gustaff99/assets/62730827/fa548d0f-2579-4303-8f09-1d71b014cf09" alt="Neural Network" width="130">
-
-```
- ██████╗██╗   ██╗██████╗ 
-██╔════╝╚██╗ ██╔╝██╔══██╗
-██║      ╚████╔╝ ██████╔╝
-██║       ╚██╔╝  ██╔══██╗
-╚██████╗   ██║   ██████╔╝
- ╚═════╝   ╚═╝   ╚═════╝ 
-```
+<img src="https://github.com/Gustaff99/Gustaff99/assets/62730827/fa548d0f-2579-4303-8f09-1d71b014cf09" alt="Neural Network" width="120">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&pause=1000&color=00f0ff&center=true&vCenter=true&width=600&lines=Welcome+to+the+grid+%F0%9F%91%BE%3BYoung+Software+Developer%3BDeep+Learning+Enthusiast+%F0%9F%A7%A0%3BStudent+%2F%2F+National+University+of+Spain+%F0%9F%8E%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=00f0ff&center=true&vCenter=true&width=550&lines=Hi%2C+I%27m+Gus+%F0%9F%91%8B%3BYoung+software+developer+%F0%9F%A7%91%8B%EF%B8%8F%3BDeep+learning+enthusiast+%F0%9F%A7%A0%3BCS+student+%2F%2F+National+University+of+Spain+%F0%9F%8E%93" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-39ff14?style=for-the-badge&logo=matrix&logoColor=black" alt="Status" />
-  <img src="https://img.shields.io/badge/MODE-HACKING-ff003c?style=for-the-badge&logo=terminal&logoColor=white" alt="Mode" />
-  <img src="https://img.shields.io/badge/FOCUS-DEEP_LEARNING-00f0ff?style=for-the-badge&logo=tensorflow&logoColor=black" alt="Focus" />
-  <img src="https://img.shields.io/badge/LEVEL-STUDENT-fcee0a?style=for-the-badge&logo=graduationcap&logoColor=black" alt="Level" />
+🔍 In this repo, you will find a bunch of personal projects. As a young software developer and a deep learning enthusiast, I'm currently studying at the National University of Spain. 🎓
 </p>
 
+<img src="https://img.shields.io/badge/CURRENTLY-DEEP_LEARNING_&_WEB_DEV-39ff14?style=flat-square" alt="status">
+
 </div>
 
 ---
 
 <div align="center">
 
-## 🌐 NEURAL INTERFACE
-
-</div>
-
-```
-┌─[gus@cyberspace]─[~/profile]
-└──╼ $ cat about_me.txt
-```
-
-**IDENTITY_MATRIX:**
-- 🦾 **DESIGNATION:** Young software developer & deep learning enthusiast
-- 🎓 **BASE:** National University of Spain
-- 🔋 **POWER_SOURCE:** Coffee.exe && curiosity.dll
-- 🌆 **MISSION:** Building the future, one commit at a time
-
-```
-┌─[SYSTEM_STATS]────────────────────────────────────────┐
-│ ░░░░░░░░░░░░░░ CYBERDECK SPECIFICATIONS ░░░░░░░░░░░░░░ │
-├────────────────────────────────────────────────────────┤
-│ » CORE: Problem solving engine v2.0                    │
-│ » RAM:  Unlimited creative memory                      │
-│ » GPU:  Neural net training matrix                     │
-│ » OS:   Linux primary / cross-platform compatible      │
-└────────────────────────────────────────────────────────┘
-```
-
----
-
-<div align="center">
-
-## ⚡ ACTIVE_PROCESSES — Featured Projects
+## ⚡ Featured Projects
 
 </div>
 
@@ -133,25 +89,25 @@
 
 <div align="center">
 
-## 🛠️ TECH_ARSENAL.exe
+## 🛠️ Tech Stack
 
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-39ff14?style=for-the-badge&logo=python&logoColor=black" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-00f0ff?style=for-the-badge&logo=java&logoColor=black" alt="Java" />
-  <img src="https://img.shields.io/badge/C++-ff003c?style=for-the-badge&logo=cpp&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-fcee0a?style=for-the-badge&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/HTML5-00f0ff?style=for-the-badge&logo=html5&logoColor=black" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-ff003c?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Webpack-39ff14?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack" />
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C.svg?style=for-the-badge&logo=cpp&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/C-555555.svg?style=for-the-badge" alt="C">
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack">
 </p>
 
 ---
 
 <div align="center">
 
-## 📊 NEURAL_NETWORK_STATS
+## 📊 Stats
 
 </div>
 
@@ -172,44 +128,16 @@
 
 <div align="center">
 
-## 📡 UPLINK — Contact
+## 📫 Contact
 
 </div>
 
-```
-┌─[ESTABLISHING_CONNECTION]─────────────────────────────┐
-│  > Connecting to comms channel...                     │
-│  > Encryption protocols activated...                  │
-│  > Neural link established...                         │
-└───────────────────────────────────────────────────────┘
-```
-
 <p align="center">
-  <a href="mailto:gustavoponfe@gmail.com">
-    <img src="https://img.shields.io/badge/Email-gustavoponfe%40gmail.com-00f0ff?style=for-the-badge&logo=gmail&logoColor=black" alt="Email" />
-  </a>
-  <a href="https://github.com/Gustaff99">
-    <img src="https://img.shields.io/badge/GitHub-Gustaff99-ff003c?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  📩 General contact: <a href="mailto:gustavoponfe@gmail.com">gustavoponfe@gmail.com</a>
 </p>
 
----
-
-<div align="center">
-
-```
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-[ SYSTEM_STATUS: TRANSMISSION_COMPLETE ]
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-```
-
-**SYSTEM_MESSAGE:** *Connection established. Welcome to the digital realm.*
-
-<img src="https://komarev.com/ghpvc/?username=Gustaff99&style=for-the-badge&color=00f0ff&label=NEURAL+CONNECTIONS" alt="Profile visitors">
-
-```
-└──╼ $ exit
-Connection to cyberspace closed.
-```
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gustaff99&style=for-the-badge&color=00f0ff&label=Profile+visitors" alt="Profile visitors">
+</p>
 
 </div>
