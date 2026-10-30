@@ -107,7 +107,7 @@
 
 <div align="center">
 
-## 🔥 Streak
+## 🔥 Stats
 
 </div>
 
